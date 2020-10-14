@@ -1,13 +1,13 @@
-# unity-libsodium
+# unity-libsodium [1.0.17-stable]
 Libsodium compiled libraries distributed in a upm way
 
 ## Platforms available:
 - Android (ArmV7 (32) and ArmV8 (64))
 - Windows (X86_X64)
+- OSX
+- iOS
 
 ## Platforms not available.
-- iOS (Can't compile without a OSX device)
-- OSX (Can't compile without a OSX device)
 - Linux (Not available at the moment)
 
 ## Installation

@@ -21,11 +21,11 @@ PluginImporter:
         Exclude OSXUniversal: 1
         Exclude Win: 0
         Exclude Win64: 0
-        Exclude iOS: 0
+        Exclude iOS: 1
   - first:
       Any: 
     second:
-      enabled: 1
+      enabled: 0
       settings: {}
   - first:
       Editor: Editor
@@ -62,7 +62,7 @@ PluginImporter:
   - first:
       iPhone: iOS
     second:
-      enabled: 1
+      enabled: 0
       settings:
         AddToEmbeddedBinaries: false
         CPU: AnyCPU

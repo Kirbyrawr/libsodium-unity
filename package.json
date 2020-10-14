@@ -1,6 +1,6 @@
 {
   "name": "com.kirbyrawr.libsodium",
-  "version": "1.0.17",
+  "version": "1.0.17-2",
   "displayName": "Libsodium Libraries",
   "description": "This is a package that contains the 'libsodium' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'libsodium'.",
   "unity": "2019.1",
