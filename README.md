@@ -1,4 +1,6 @@
 # unity-libsodium [1.0.17-stable]
+[![openupm](https://img.shields.io/npm/v/com.kirbyrawr.libsodium?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.kirbyrawr.libsodium/)
+
 Libsodium compiled libraries distributed in a upm way
 
 ## Platforms available:
