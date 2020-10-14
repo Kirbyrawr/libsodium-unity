@@ -11,7 +11,15 @@ Libsodium compiled libraries distributed in a upm way
 - Linux (Not available at the moment)
 
 ## Installation
-1. Open Package Manager inside Unity (Window/Package Manager)
-2. Press the add button on the top left corner (+)
-3. Press git url in the dropdown menu.
-4. Add the https/ssh url of this repository.
+### OpenUPM
+#### Requeriments
+1. Node.js 12 
+2. OpenUPM CLI (npm install -g openupm-cli)
+
+### Steps
+From the terminal / powershell
+1. cd YourUnityProjectPath
+2. openupm add com.kirbyrawr.libsodium
+
+Please refer to this guide for more information
+https://openupm.com/docs/#how-it-works
