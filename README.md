@@ -1,4 +1,4 @@
-# unity-libsodium [1.0.17-stable]
+# unity-libsodium
 - License: ISC
 - Authors:
   - https://doc.libsodium.org/#thanks (Library / Code)
