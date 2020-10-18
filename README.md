@@ -1,6 +1,18 @@
 # unity-libsodium [1.0.17-stable]
-[![openupm](https://img.shields.io/npm/v/com.kirbyrawr.libsodium?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.kirbyrawr.libsodium/)
-
+- License: ISC
+- Authors:
+  - https://doc.libsodium.org/#thanks (Library / Code)
+  - Kirbyrawr (Unity Package)
+  
+# Installation
+- Go to Window/Package Manager
+- Go to Settings/Advanced Project Settings (Gear icon in Package Manager)
+- In Scoped Registries add a new entry with this information:
+  - Name: Kirbyrawr
+  - URL: https://registry.npmjs.org
+  - Scope(s): com.kirbyrawr
+- Go to Package Manager and select in the Packages dropdown 'Måy Registries'
+- Select the name of the package and install it.
 Libsodium compiled libraries distributed in a upm way
 
 ## Platforms available:
@@ -11,17 +23,3 @@ Libsodium compiled libraries distributed in a upm way
 
 ## Platforms not available.
 - Linux (Not available at the moment)
-
-## Installation
-### OpenUPM
-#### Requeriments
-1. Node.js 12 
-2. OpenUPM CLI (npm install -g openupm-cli)
-
-### Steps
-From the terminal / powershell
-1. cd YourUnityProjectPath
-2. openupm add com.kirbyrawr.libsodium
-
-Please refer to this guide for more information
-https://openupm.com/docs/#how-it-works
