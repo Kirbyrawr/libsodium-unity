@@ -10,6 +10,11 @@
     "dlls",
     "compiled"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/unity-libsodium.git"
+  },
+  "license": "ISC",
   "author": {
     "name": "Kirbyrawr",
     "email": "devkirbyrawr@gmail.com"
